@@ -1,0 +1,4 @@
+200 OK
+
+https://metacpan.org/sitemap-authors.xml.gz
+https://metacpan.org/sitemap-releases.xml.gz
