@@ -35,7 +35,7 @@ sub check_xml {
         $parser->parse_string($xml_string);
     };
 
-    ok(!$@, 'XML invalid');
+    ok(!$@, 'XML valid');
 
     return;
 }
