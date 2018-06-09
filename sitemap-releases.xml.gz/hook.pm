@@ -56,7 +56,6 @@ sub check {
     my ($url) = @_;
 
     # NOTE: SWAT could run simple tests
-    # but inside parent test it runs fake test ;(
 
     # > mkdir sitemap-releases.xml.gz/ake
     # > echo 200 > sitemap-releases.xml.gz/any/get.txt
