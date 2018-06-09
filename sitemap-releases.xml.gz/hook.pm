@@ -57,7 +57,8 @@ sub check {
 
     # NOTE: SWAT could run simple tests
 
-    # > mkdir sitemap-releases.xml.gz/ake
+    # One way for automation
+    # > mkdir sitemap-releases.xml.gz/any
     # > echo 200 > sitemap-releases.xml.gz/any/get.txt
     # > echo 'swat_module=0' sitemap-releases.xml.gz/any/swat.ini
     # > swat sitemap-releases.xml.gz/any https://metacpan.org/release/AI-XGBoost/
